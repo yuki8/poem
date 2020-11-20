@@ -1,4 +1,4 @@
-Rainbow
+The Rainbow
 
 Purple
 Indigo
@@ -7,4 +7,4 @@ Green
 Red
 Orange 
 Yellow
-These are colors of rainbow
+These are the colors of rainbow
